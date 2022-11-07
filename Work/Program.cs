@@ -1,4 +1,4 @@
-﻿string[] DataArray = {"Hello", "2", "world", ":-)"};
+﻿string[] DataArray = {"Hello", "2", "2345", "world", ":-)"};
 string[] NewArray = new string[DataArray.Length];
 
 FindResult(DataArray, NewArray);
